@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Google Chrome
+Comment=Web Browser
+Exec=/usr/bin/google-chrome-stable %U
+Icon=google-chrome
+Terminal=false
+Categories=Network;WebBrowser;

@@ -1,0 +1,110 @@
+Agile Methodology Terms
+1. Agile
+·       Agile is a software development approach that focuses on flexibility and continuous improvement.
+·       Work is divided into smaller parts.
+·       Teams deliver working software frequently.
+·       Customer feedback is used to improve the product.
+2. Scrum
+·       Scrum is an Agile framework used to manage software development.
+·       Work is completed in short periods called sprints.
+·       The team holds regular meetings to discuss progress.
+·       It defines roles, events, and work items.
+3. Sprint
+·       A sprint is a fixed period during which the team completes selected work.
+·       It usually lasts one to four weeks.
+·       The team works toward a specific sprint goal.
+·       At the end, the team reviews the completed work.
+4. Iteration
+·       An iteration is a repeated development cycle.
+·       The team plans, develops, and tests a small part of the product.
+·       Feedback is collected after each cycle.
+·       It helps improve the product step by step.
+5. User Story
+·       A user story describes a feature from the user's point of view.
+·       It explains what the user needs and why.
+·       It is usually written in simple language.
+·       Example: “As a user, I want to reset my password so that I can access my account.”
+6. Epic
+·       An epic is a large requirement that can be divided into smaller user stories.
+·       It represents a major feature or business requirement.
+·       It may take several sprints to complete.
+·       Example: An online shopping system can have an epic called “Order Management.”
+7. Story Point
+·       Story points estimate the effort required to complete a user story.
+·       They consider complexity, effort, and uncertainty.
+·       Teams may use values such as 1, 2, 3, 5, and 8.
+·       They are relative estimates, not fixed hours.
+8. Acceptance Criteria
+·       Acceptance criteria define the conditions a feature must satisfy.
+·       They help the team understand when a user story is acceptable.
+·       They guide developers and testers during implementation and testing.
+·       Example: A login page must display an error message when the password is incorrect.
+
+
+Scrum Roles and Responsibilities
+1. Product Owner (PO)
+·       Defines and communicates the product goals.
+·       Manages and prioritizes the Product Backlog.
+·       Understands customer and business requirements.
+·       Ensures the team works on valuable features.
+2. Scrum Master (SM)
+·       Helps the team understand and follow Scrum.
+·       Removes or helps resolve obstacles affecting progress.
+·       Facilitates Scrum events when needed.
+·       Helps the team improve its working practices.
+3. Developers
+·       Design, develop, test, and integrate the product.
+·       Plan how to complete the Sprint Backlog work.
+·       Work together to achieve the Sprint Goal.
+·       Maintain the quality of the product.
+4. Stakeholders
+·       Include customers, users, managers, and other interested people.
+·       Share business needs and expectations.
+·       Provide feedback about the product.
+·       Help the Product Owner understand priorities.
+
+
+Scrum Events and Their Purpose
+1. Sprint Planning
+·       Takes place at the beginning of a sprint.
+·       The team decides what work can be completed.
+·       The Product Owner explains important backlog items.
+·       The team establishes a Sprint Goal and plans the work.
+2. Daily Scrum
+·       A short daily meeting for Developers.
+·       Helps check progress toward the Sprint Goal.
+·       Team members identify obstacles and coordinate work.
+·       It is usually limited to 15 minutes.
+3. Sprint Review
+·       Takes place at the end of a sprint.
+·       The team presents the completed work to stakeholders.
+·       Feedback is collected about the product.
+·       The Product Backlog may be updated based on feedback.
+4. Sprint Retrospective
+·       Takes place after the Sprint Review and before the next Sprint Planning.
+·       The team discusses what went well.
+·       The team identifies problems and areas for improvement.
+·       It agrees on ways to improve quality and teamwork.
+
+
+Scrum Terms and Their Purpose
+1. Product Backlog
+·       Contains the work needed to improve the product.
+·       Includes features, bug fixes, improvements, and other requirements.
+·       The Product Owner is accountable for effective backlog management.
+·       Items are ordered according to value, priority, and other considerations.
+2. Sprint Backlog
+·       Contains the Sprint Goal, selected Product Backlog items, and the plan for delivering them.
+·       Is created and updated by the Developers.
+·       Helps the team track work during the sprint.
+·       Can change as the team learns more, while maintaining focus on the Sprint Goal.
+3. Sprint Goal
+·       Describes the main objective of the sprint.
+·       Gives the team a shared direction.
+·       Helps the team make decisions during development.
+·       Provides a clear purpose for the selected work.
+4. Definition of Done (DoD)
+·       Describes the quality requirements that work must meet to be considered complete.
+·       Ensures the team follows consistent quality standards.
+·       May include coding, testing, code review, and documentation requirements.
+·       Helps prevent unfinished work from being treated as completed.

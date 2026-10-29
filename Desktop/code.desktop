@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Visual Studio Code
+Comment=Code Editor
+Exec=/usr/bin/code --new-window %F
+Icon=vscode
+Terminal=false
+Categories=Development;IDE;
+Path=
+StartupNotify=false

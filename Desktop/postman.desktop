@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Postman
+Comment=API Development
+Exec=/opt/Postman/Postman
+Icon=/usr/local/share/icons/postman.png
+Terminal=false
+Categories=Development;
