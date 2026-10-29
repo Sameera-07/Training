@@ -1,0 +1,75 @@
+1. Plan Stage
+Jira
+* Used to create and assign tasks.
+* Helps track bugs and project progress.
+* Helps teams organize their daily work.
+Azure Boards
+* Used to plan and track project work.
+* Helps manage tasks and deadlines.
+* Shows which tasks are completed and pending.
+2. Code Stage
+SCM (Source Code Management)
+* Helps manage changes made to source code.
+* Keeps a history of code changes.
+* Allows multiple developers to work on the same project.
+* Helps recover earlier versions of code.
+Git
+* Tracks changes made to files and code.
+* Helps save different versions of a project.
+* Allows developers to work on separate features using branches.
+GitHub
+* Stores Git repositories online.
+* Helps developers share code with team members.
+* Supports code reviews and collaboration.
+3. Build Stage
+Maven
+* Used to build Java applications.
+* Downloads and manages required libraries.
+* Helps compile and package Java code.
+* Uses a file called pom.xml to manage project settings.
+Gradle
+* Automates the process of building applications.
+* Downloads the libraries required by a project.
+* Supports Java and other programming languages.
+* Uses build scripts to define build tasks.
+4. Test Stage
+JUnit
+* Used to test small parts of Java programs.
+* Checks whether a method produces the expected result.
+* Helps identify errors early.
+Selenium
+* Used to test websites automatically.
+* Can open browsers, click buttons, and enter text.
+* Checks whether website features work correctly.
+5. Release Stage
+Jenkins
+* Automates software development tasks.
+* Can build and test code automatically.
+* Helps prepare applications for release.
+GitHub Actions
+* Automates tasks inside GitHub.
+* Runs workflows when code is pushed or updated.
+* Can build applications and run tests automatically.
+6. Deploy Stage
+Docker
+* Packages an application and its required files into a container.
+* Helps applications run consistently on different systems.
+* Makes it easier to move applications between environments.
+Kubernetes
+* Manages applications running in containers.
+* Can increase or decrease the number of application instances.
+* Restarts failed containers when configured to do so.
+* Helps update applications with minimal disruption.
+7. Operate Stage
+Ansible
+* Automates tasks on Linux servers.
+* Installs software and configures servers automatically.
+* Can manage multiple servers at the same time.
+8. Monitor Stage
+Grafana
+* Displays server and application information in dashboards.
+* Helps check CPU, memory, and disk usage.
+* Can show alerts when problems occur.
+* Helps administrators identify performance issues.
+* Helps teams identify performance issues and troubleshoot problems.
+ 
